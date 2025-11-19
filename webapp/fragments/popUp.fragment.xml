@@ -4,4 +4,4 @@
 			<StandardListItem info="{fragmentModel>id}" title="{fragmentModel>contact_person}"></StandardListItem>
 		</items>
 	</SelectDialog>
-</core:FragmentDefinition>
+</core:FragmentDefinition>  

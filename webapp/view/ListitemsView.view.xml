@@ -14,7 +14,7 @@
 		<subHeader>
 			<OverflowToolbar>
 				<SearchField search="onSearch" id="idSearch" liveChange="onSearch"/>
-			</OverflowToolbar>
+			</OverflowToolbar> 
 		</subHeader>
 		<content>
 			<!--singleSelectMaster:It is mode, selectionChange:It is an event-->

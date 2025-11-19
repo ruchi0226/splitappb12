@@ -4,4 +4,4 @@
     xmlns="sap.m">
     <SplitApp id="app">
     </SplitApp>
-</mvc:View>
+</mvc:View> 

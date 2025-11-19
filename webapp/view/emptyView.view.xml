@@ -3,4 +3,4 @@
     xmlns="sap.m">
     <Page id="idEmp" title="{i18n>emp}">
     </Page>
-</mvc:View>
+</mvc:View> 
